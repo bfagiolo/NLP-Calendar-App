@@ -1,2 +1,3 @@
 # NLP-Calendar-App
-A smart calendar app that uses NLP to organize your schedule effortlessly. Just type in event details, and it adds them to your calendar automatically. It also tracks your activities and generates charts for insights. Powered by a Python backend via Heroku, SmartCal makes event management smarter and easier.
+
+An intelligent calendar app powered by NLP, designed to organize your schedule seamlessly. Input event details as text, and SmartCal automatically adds them to your calendar. It also generates insightful charts to track and analyze your activity patterns. With a robust Python NLP backend hosted on Heroku, SmartCal simplifies event management and helps you stay on top of your day.
